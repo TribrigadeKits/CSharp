@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\trapt\\source\\repos\\ClassSamples\\ClassSamples\\ClassSamples.csproj",
+      "projectUniqueName": "C:\\Users\\trapt\\Source\\Repos\\TribrigadeKits\\CSharp\\ClassSamples\\ClassSamples\\ClassSamples.csproj",
       "projectName": "ClassSamples",
-      "projectPath": "C:\\Users\\trapt\\source\\repos\\ClassSamples\\ClassSamples\\ClassSamples.csproj",
+      "projectPath": "C:\\Users\\trapt\\Source\\Repos\\TribrigadeKits\\CSharp\\ClassSamples\\ClassSamples\\ClassSamples.csproj",
       "packagesPath": "C:\\Users\\trapt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\trapt\\source\\repos\\ClassSamples\\ClassSamples\\obj\\",
+      "outputPath": "C:\\Users\\trapt\\Source\\Repos\\TribrigadeKits\\CSharp\\ClassSamples\\ClassSamples\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\trapt\\AppData\\Roaming\\NuGet\\NuGet.Config",

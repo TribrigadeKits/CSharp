@@ -19,7 +19,6 @@
             txtName2.Text = animal2.Name;
             txtColor2.Text = animal2.Color;
             txtSing2.Text = animal2.sing();
-
         }
     }
 }
